@@ -1,0 +1,24 @@
+{
+  "name": "discord_bot",
+  "version": "1.0.0",
+  "description": "Discord bot voor Amsterdam rp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon"
+  },
+  "keywords": [
+    "bot",
+    "info",
+    "serverinfo",
+    "2.0"
+  ],
+  "author": "Tim",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  }
+}
